@@ -1,0 +1,17 @@
+{
+    "name": "language-nasmx86",
+    "main": "./lib/language-nasmx86",
+    "version": "0.0.0",
+    "description": "Atom language support for Assembly x86 (NASM)",
+    "repository": "https://github.com/thiranger/language-nasmx86",
+    "keywords": [
+        "nasm",
+        "highlighting",
+        "grammar"
+    ],
+    "license": "MIT",
+    "bugs": "https://github.com/thiranger/language-nasmx86/issues",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
+}

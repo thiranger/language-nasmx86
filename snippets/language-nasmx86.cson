@@ -1,0 +1,19 @@
+'.source.assembly':
+    '%include ""':
+        'prefix': 'inc'
+        'body': 'include ""'
+    'io.inc':
+        'prefix': 'io'
+        'body': 'io.inc'
+    '.bss':
+        'prefix': '.bss'
+        'body': '.bss'
+    '.data':
+        'prefix': '.dat'
+        'body': '.data'
+    '.rodata':
+        'prefix': '.rod'
+        'body': '.rodata'
+    '.text':
+        'prefix': '.tex'
+        'body': '.text'
