@@ -1,3 +1,4 @@
+#   .bss .data .rodata .text
 '.source.assembly':
     '%include ""':
         'prefix': 'inc'
@@ -5,15 +6,27 @@
     'io.inc':
         'prefix': 'io'
         'body': 'io.inc'
-    '.bss':
-        'prefix': '.bss'
-        'body': '.bss'
-    '.data':
-        'prefix': '.dat'
-        'body': '.data'
-    '.rodata':
-        'prefix': '.rod'
-        'body': '.rodata'
-    '.text':
-        'prefix': '.tex'
-        'body': '.text'
+    'section':
+        'prefix': 'sec'
+        'body': 'section'
+    'byte':
+        'prefix': 'by'
+        'body': 'byte'
+    'word':
+        'prefix': 'wo'
+        'body': 'word'
+    'dword':
+        'prefix': 'dw'
+        'body': 'dword'
+    'resb':
+        'prefix': 'resb'
+        'body': 'resb'
+    'resw':
+        'prefix': 'resw'
+        'body': 'resw'
+    'resd':
+        'prefix': 'resd'
+        'body': 'resd'
+    'CMAIN':
+        'prefix': 'cmain'
+        'body': 'CMAIN'
