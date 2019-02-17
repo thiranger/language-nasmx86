@@ -33,7 +33,7 @@ patterns: [
     }
     {
         name: 'string.quoted.assembly',
-        match: '(\'.*?[^\\\\]\')|(".*?[^\\\\]")'
+        match: '(\'.*?[^\\\\]\')|(".*?[^\\\\]")|\'\'|""'
     }
     {
         name: 'support.function.directive.assembly',

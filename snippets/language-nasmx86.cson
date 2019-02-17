@@ -9,6 +9,9 @@
     'section':
         'prefix': 'sec'
         'body': 'section'
+    'global':
+        'prefix': 'glo'
+        'body': 'global'
     'byte':
         'prefix': 'by'
         'body': 'byte'
