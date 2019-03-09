@@ -2,7 +2,7 @@
     "name": "language-nasmx86",
     "main": "./lib/language-nasmx86",
     "version": "0.0.0",
-    "description": "Atom language support for Assembly x86 (NASM)",
+    "description": "Adds syntax highlighting to Assembly x86 (NASM) files in Atom",
     "repository": "https://github.com/thiranger/language-nasmx86",
     "keywords": [
         "nasm",
