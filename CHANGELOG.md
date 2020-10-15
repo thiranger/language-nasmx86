@@ -2,5 +2,5 @@
 * Every feature added
 * Every bug fixed
 
-## 0.1.1
+## 0.2.0
 * Added comment toggle feature
