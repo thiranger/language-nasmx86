@@ -1,3 +1,6 @@
 Adds syntax highlighting and snippets to Assembly files in Atom.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+If you find out a necessity of whatever feature, please fork this repository and open a pull request.
+
+How it looks like:
+![example screenshot](https://p59.f1.n0.cdn.getcloudapp.com/items/4guJ1gBJ/image_2020-10-15_13-52-01.png?source=viewer&v=beacaffef75b8127d4d6152c3e36faf4)
