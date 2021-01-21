@@ -5,9 +5,13 @@
     "description": "Adds syntax highlighting to Assembly x86 (NASM) files in Atom",
     "repository": "https://github.com/thiranger/language-nasmx86",
     "keywords": [
-        "nasm",
+        "asm",
+        "assembler",
+        "grammar",
         "highlighting",
-        "grammar"
+        "language",
+        "nasm",
+        "x86"
     ],
     "license": "MIT",
     "bugs": "https://github.com/thiranger/language-nasmx86/issues",

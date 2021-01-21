@@ -1,7 +1,18 @@
-Adds syntax highlighting and snippets to Assembly files in Atom.
+# 'language-nasmx86' package
 
-If you find out a necessity of whatever feature, please fork this repository and open a pull request.
+Adds syntax highlighting and snippets to Assembly x86 (NASM) files in Atom. This package was derived from the [NASM Sublime language](http://github.com/alkhe/Assembly-x86).
 
-How it looks like:
+## Install
 
-![example screenshot](https://p59.f1.n0.cdn.getcloudapp.com/items/4guJ1gBJ/image_2020-10-15_13-52-01.png?source=viewer&v=beacaffef75b8127d4d6152c3e36faf4)
+Just run the following command:
+'''bash
+apm install language-nasmx86
+'''
+
+If you prefer installation via GUI, you can go to `Atom` > `Settings` > `Install`, search for `language-nasmx86` in Packages tab and install it.
+
+## Contributing
+Please update the [CHANGELOG.md](https://github.com/thiranger/language-nasmx86/blob/master/CHANGELOG.md) and submit a [pull request on GitHub](https://help.github.com/articles/using-pull-requests) when contributing.
+
+## License
+Language-LaTeX is released under the [MIT](https://github.com/thiranger/language-nasmx86/blob/master/LICENSE.md) license.
