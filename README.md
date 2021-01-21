@@ -1,4 +1,4 @@
-# `language-nasmx86` package
+# language-nasmx86 package
 
 Adds syntax highlighting and snippets to Assembly x86 (NASM) files in Atom. This package was derived from the [NASM Sublime language](http://github.com/alkhe/Assembly-x86).
 
