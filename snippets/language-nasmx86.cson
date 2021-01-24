@@ -1,11 +1,7 @@
-#   .bss .data .rodata .text
 '.source.assembly':
     '%include ""':
         'prefix': 'inc'
         'body': 'include ""'
-    'io.inc':
-        'prefix': 'io'
-        'body': 'io.inc'
     'section':
         'prefix': 'sec'
         'body': 'section'
